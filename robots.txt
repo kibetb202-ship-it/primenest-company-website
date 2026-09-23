@@ -1,0 +1,8 @@
+# PrimeNest Investment Limited
+# https://primenestcompany.co.ke/
+
+User-agent: *
+
+Allow: /
+
+Sitemap: https://primenestcompany.co.ke/sitemap.xml
